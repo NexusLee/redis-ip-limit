@@ -1,0 +1,29 @@
+{
+  "name": "shop",
+  "version": "0.0.1",
+  "description": "shop",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "express-partials": "^0.3.0",
+    "ioredis": "^1.15.1",
+    "lodash": "^4.12.0",
+    "ms": "^0.7.1",
+    "redis": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "nexus",
+  "license": "ISC"
+}
